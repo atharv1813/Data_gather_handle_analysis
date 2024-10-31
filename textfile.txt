@@ -1,0 +1,6 @@
+Name|Age|Occupation|Income($)|City
+John Doe|28|Software Engineer|75000|New York
+Jane Smith|34|Data Scientist||San Francisco
+Alice Wong|NaN|Doctor|120000|Chicago
+Bob Lee|45|Lawyer|98000|Los Angeles
+NaN|29|Engineer|82000|Boston
